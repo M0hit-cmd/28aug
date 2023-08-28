@@ -1,2 +1,2 @@
 Line1
-222222
+line 2 conflict resolved
